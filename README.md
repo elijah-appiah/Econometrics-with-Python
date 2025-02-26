@@ -9,7 +9,7 @@
    - Cross-sectional Data
    - Time Series Data
    - Panel Data
-2. **Simple Regression Analysis**
+2. **Simple Regression Analysis** 
    - Nature and Estimation
    - Functional Forms of Regression Models (Log-Log model, Log-Linear model, Linear-Log model,  Reciprocal model, etc...)
 3. **Multiple Regression Analysis**
